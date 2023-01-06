@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>tekpeek/</loc>
+    <loc>https://avinashsubhash.github.io/tekpeek/</loc>
     <lastmod>2022-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>tekpeek/categories/</loc>
+    <loc>https://avinashsubhash.github.io/tekpeek/categories/</loc>
     <lastmod>2022-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>tekpeek/tags/example-tag/</loc>
+    <loc>https://avinashsubhash.github.io/tekpeek/tags/example-tag/</loc>
     <lastmod>2022-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>tekpeek/categories/linux/</loc>
+    <loc>https://avinashsubhash.github.io/tekpeek/categories/linux/</loc>
     <lastmod>2022-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>tekpeek/post/</loc>
+    <loc>https://avinashsubhash.github.io/tekpeek/post/</loc>
     <lastmod>2022-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>tekpeek/post/rust/</loc>
+    <loc>https://avinashsubhash.github.io/tekpeek/post/rust/</loc>
     <lastmod>2022-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>tekpeek/tags/</loc>
+    <loc>https://avinashsubhash.github.io/tekpeek/tags/</loc>
     <lastmod>2022-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>tekpeek/categories/windows/</loc>
+    <loc>https://avinashsubhash.github.io/tekpeek/categories/windows/</loc>
     <lastmod>2022-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>tekpeek/post/mine.com/</loc>
+    <loc>https://avinashsubhash.github.io/tekpeek/post/mine.com/</loc>
     <lastmod>2022-08-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>tekpeek/categories/privacy/</loc>
+    <loc>https://avinashsubhash.github.io/tekpeek/categories/privacy/</loc>
     <lastmod>2022-08-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>tekpeek/page/archives/</loc>
+    <loc>https://avinashsubhash.github.io/tekpeek/page/archives/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>tekpeek/page/</loc>
+    <loc>https://avinashsubhash.github.io/tekpeek/page/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>tekpeek/page/links/</loc>
+    <loc>https://avinashsubhash.github.io/tekpeek/page/links/</loc>
   </url><url>
-    <loc>tekpeek/page/search/</loc>
+    <loc>https://avinashsubhash.github.io/tekpeek/page/search/</loc>
   </url>
 </urlset>

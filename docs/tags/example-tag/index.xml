@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Example Tag on    TekPeek - Blogs</title>
-        <link>tekpeek/tags/example-tag/</link>
+        <link>https://avinashsubhash.github.io/tekpeek/tags/example-tag/</link>
         <description>Recent content in Example Tag on    TekPeek - Blogs</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 30 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="tekpeek/tags/example-tag/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 30 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://avinashsubhash.github.io/tekpeek/tags/example-tag/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Rust is finally IN !</title>
-        <link>tekpeek/post/rust/</link>
+        <link>https://avinashsubhash.github.io/tekpeek/post/rust/</link>
         <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
         
-        <guid>tekpeek/post/rust/</guid>
-        <description>&lt;img src="/tekpeek/rust.png" alt="Featured image of post Rust is finally IN !" /&gt;&lt;p&gt;Rust will be utilized in the next version of the Linux kernel, according to Linux Torvalds, the operating system&amp;rsquo;s founder. Rust inclusion in Linux kernel development was a topic of discussion for several years before it was eventually settled.&lt;/p&gt;
+        <guid>https://avinashsubhash.github.io/tekpeek/post/rust/</guid>
+        <description>&lt;img src="https://avinashsubhash.github.io/tekpeek/rust.png" alt="Featured image of post Rust is finally IN !" /&gt;&lt;p&gt;Rust will be utilized in the next version of the Linux kernel, according to Linux Torvalds, the operating system&amp;rsquo;s founder. Rust inclusion in Linux kernel development was a topic of discussion for several years before it was eventually settled.&lt;/p&gt;
 &lt;h1 id=&#34;what-exactly-is-rust-&#34;&gt;What exactly is Rust ?&lt;/h1&gt;
 &lt;p&gt;Rust is a static compiled language which focuses on performance, memory safety without the use of garbage collectors. Rust has been adapted by several major companies such as Amazon, Discord, Meta, Google and even Microsoft.Rust contains a safe mode where the compiler will check for errors, but it comes with a downside - it is considered a bit restrictive. And for those, who doesn’t like it, they can enable the unsafe mode where this restriction is removed, but then the correctness of the program is to be done by the programmer’s end.&lt;/p&gt;
 &lt;h1 id=&#34;so-whats-gonna-happen-when-rust-gets-included-in-linux-&#34;&gt;So what’s gonna happen when Rust gets included in Linux ?&lt;/h1&gt;

@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on    TekPeek - Blogs</title>
-        <link>tekpeek/categories/</link>
+        <link>https://avinashsubhash.github.io/tekpeek/categories/</link>
         <description>Recent content in Categories on    TekPeek - Blogs</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 30 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="tekpeek/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 30 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://avinashsubhash.github.io/tekpeek/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Linux</title>
-        <link>tekpeek/categories/linux/</link>
+        <link>https://avinashsubhash.github.io/tekpeek/categories/linux/</link>
         <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
         
-        <guid>tekpeek/categories/linux/</guid>
-        <description>&lt;img src="/tekpeek/linux-logo.png" alt="Featured image of post Linux" /&gt;</description>
+        <guid>https://avinashsubhash.github.io/tekpeek/categories/linux/</guid>
+        <description>&lt;img src="https://avinashsubhash.github.io/tekpeek/linux-logo.png" alt="Featured image of post Linux" /&gt;</description>
         </item>
         <item>
         <title>Windows</title>
-        <link>tekpeek/categories/windows/</link>
+        <link>https://avinashsubhash.github.io/tekpeek/categories/windows/</link>
         <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
         
-        <guid>tekpeek/categories/windows/</guid>
-        <description>&lt;img src="/tekpeek/windows-icon.png" alt="Featured image of post Windows" /&gt;</description>
+        <guid>https://avinashsubhash.github.io/tekpeek/categories/windows/</guid>
+        <description>&lt;img src="https://avinashsubhash.github.io/tekpeek/windows-icon.png" alt="Featured image of post Windows" /&gt;</description>
         </item>
         <item>
         <title>Privacy</title>
-        <link>tekpeek/categories/privacy/</link>
+        <link>https://avinashsubhash.github.io/tekpeek/categories/privacy/</link>
         <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
         
-        <guid>tekpeek/categories/privacy/</guid>
-        <description>&lt;img src="/tekpeek/privacy-icon.png" alt="Featured image of post Privacy" /&gt;</description>
+        <guid>https://avinashsubhash.github.io/tekpeek/categories/privacy/</guid>
+        <description>&lt;img src="https://avinashsubhash.github.io/tekpeek/privacy-icon.png" alt="Featured image of post Privacy" /&gt;</description>
         </item>
         
     </channel>
