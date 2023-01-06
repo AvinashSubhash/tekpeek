@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Arch Linux on    TekPeek - Blogs</title>
+        <link>https://avinashsubhash.github.io/tekpeek/categories/arch/</link>
+        <description>Recent content in Arch Linux on    TekPeek - Blogs</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language><atom:link href="https://avinashsubhash.github.io/tekpeek/categories/arch/index.xml" rel="self" type="application/rss+xml" />
+    </channel>
+</rss>

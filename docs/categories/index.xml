@@ -6,10 +6,18 @@
         <description>Recent content in Categories on    TekPeek - Blogs</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 30 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://avinashsubhash.github.io/tekpeek/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 06 Jan 2023 13:25:23 +0530</lastBuildDate><atom:link href="https://avinashsubhash.github.io/tekpeek/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Arch Linux</title>
+        <link>https://avinashsubhash.github.io/tekpeek/categories/arch-linux/</link>
+        <pubDate>Fri, 06 Jan 2023 13:25:23 +0530</pubDate>
+        
+        <guid>https://avinashsubhash.github.io/tekpeek/categories/arch-linux/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Linux</title>
         <link>https://avinashsubhash.github.io/tekpeek/categories/linux/</link>
-        <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 06 Jan 2023 13:25:23 +0530</pubDate>
         
         <guid>https://avinashsubhash.github.io/tekpeek/categories/linux/</guid>
         <description>&lt;img src="https://avinashsubhash.github.io/tekpeek/linux-logo.png" alt="Featured image of post Linux" /&gt;</description>
@@ -29,6 +37,14 @@
         
         <guid>https://avinashsubhash.github.io/tekpeek/categories/privacy/</guid>
         <description>&lt;img src="https://avinashsubhash.github.io/tekpeek/privacy-icon.png" alt="Featured image of post Privacy" /&gt;</description>
+        </item>
+        <item>
+        <title>Arch Linux</title>
+        <link>https://avinashsubhash.github.io/tekpeek/categories/arch/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://avinashsubhash.github.io/tekpeek/categories/arch/</guid>
+        <description>&lt;img src="https://avinashsubhash.github.io/tekpeek/arch.png" alt="Featured image of post Arch Linux" /&gt;</description>
         </item>
         
     </channel>
