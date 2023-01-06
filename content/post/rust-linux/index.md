@@ -8,7 +8,6 @@ categories:
     - Linux
     - Windows
 tags:
-    - Example Tag
 ---
 
 Rust will be utilized in the next version of the Linux kernel, according to Linux Torvalds, the operating system's founder. Rust inclusion in Linux kernel development was a topic of discussion for several years before it was eventually settled.
