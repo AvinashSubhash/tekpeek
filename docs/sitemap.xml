@@ -8,9 +8,6 @@
     <loc>https://avinashsubhash.github.io/tekpeek/categories/</loc>
     <lastmod>2022-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://avinashsubhash.github.io/tekpeek/tags/example-tag/</loc>
-    <lastmod>2022-09-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://avinashsubhash.github.io/tekpeek/categories/linux/</loc>
     <lastmod>2022-09-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -18,9 +15,6 @@
     <lastmod>2022-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://avinashsubhash.github.io/tekpeek/post/rust/</loc>
-    <lastmod>2022-09-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://avinashsubhash.github.io/tekpeek/tags/</loc>
     <lastmod>2022-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://avinashsubhash.github.io/tekpeek/categories/windows/</loc>
@@ -41,5 +35,7 @@
     <loc>https://avinashsubhash.github.io/tekpeek/page/links/</loc>
   </url><url>
     <loc>https://avinashsubhash.github.io/tekpeek/page/search/</loc>
+  </url><url>
+    <loc>https://avinashsubhash.github.io/tekpeek/tags/</loc>
   </url>
 </urlset>
