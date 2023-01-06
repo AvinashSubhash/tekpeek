@@ -1,4 +1,4 @@
-baseURL = 'tekpeek/'
+baseURL = 'https://avinashsubhash.github.io/tekpeek'
 languageCode = 'en-us'
 title = '   TekPeek - Blogs'
 theme = 'stack'
