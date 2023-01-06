@@ -1,7 +1,7 @@
 ---
 title: Windows
-description: A description of this category
-image:
+description: Posts related to WIndows Operating system
+image: /windows-icon.png
 
 # Badge style
 style:

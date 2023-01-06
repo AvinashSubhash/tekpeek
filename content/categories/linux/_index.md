@@ -1,7 +1,7 @@
 ---
 title: Linux
-description: A description of this category
-image:
+description: Posts related to linux Operating system
+image: /linux-logo.png
 
 # Badge style
 style:
