@@ -6,7 +6,7 @@ description: An Arch Linux tool to clean system, home directory cache, and dupli
 image: /cleansweep.png
 categories:
     - Linux
-    - Arch Linux
+    - Arch
 ---
 
 # What exactly is CleanSweep ?
