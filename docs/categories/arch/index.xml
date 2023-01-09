@@ -12,7 +12,7 @@
         <pubDate>Fri, 06 Jan 2023 13:25:23 +0530</pubDate>
         
         <guid>https://avinashsubhash.github.io/tekpeek/post/cleansweep/cleansweep/</guid>
-        <description>&lt;img src="https://avinashsubhash.github.io/cleansweep.png" alt="Featured image of post Cleansweep" /&gt;&lt;h1 id=&#34;what-exactly-is-cleansweep-&#34;&gt;What exactly is CleanSweep ?&lt;/h1&gt;
+        <description>&lt;img src="https://avinashsubhash.github.io/tekpeek/cleansweep.png" alt="Featured image of post Cleansweep" /&gt;&lt;h1 id=&#34;what-exactly-is-cleansweep-&#34;&gt;What exactly is CleanSweep ?&lt;/h1&gt;
 &lt;p&gt;CleanSweep is a TUI program that helps newbie Arch Linux users to cleanup their system and clear up their precious memory. CleanSweep gives out a step by step process to user to the user with the ability for the user to skip a particular step.&lt;/p&gt;
 &lt;h1 id=&#34;why-did-i-create-this-tool-&#34;&gt;Why did I create this tool ?&lt;/h1&gt;
 &lt;p&gt;In Arch Linux, as with any operating system, increasing cache memory can potentially improve system performance by allowing the system to store frequently accessed data in fast memory that can be quickly accessed. However, there are also potential drawbacks to increasing cache memory.&lt;/p&gt;
