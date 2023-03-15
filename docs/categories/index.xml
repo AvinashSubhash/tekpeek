@@ -6,21 +6,45 @@
         <description>Recent content in Categories on    TekPeek - Blogs</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 06 Jan 2023 13:25:23 +0530</lastBuildDate><atom:link href="https://avinashsubhash.github.io/tekpeek/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 15 Mar 2023 14:26:01 +0530</lastBuildDate><atom:link href="https://avinashsubhash.github.io/tekpeek/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Cloud</title>
+        <link>https://avinashsubhash.github.io/tekpeek/categories/cloud/</link>
+        <pubDate>Wed, 15 Mar 2023 14:26:01 +0530</pubDate>
+        
+        <guid>https://avinashsubhash.github.io/tekpeek/categories/cloud/</guid>
+        <description>&lt;img src="https://avinashsubhash.github.io/tekpeek/cloud.png" alt="Featured image of post Cloud" /&gt;</description>
+        </item>
+        <item>
+        <title>Linux</title>
+        <link>https://avinashsubhash.github.io/tekpeek/categories/linux/</link>
+        <pubDate>Wed, 15 Mar 2023 14:26:01 +0530</pubDate>
+        
+        <guid>https://avinashsubhash.github.io/tekpeek/categories/linux/</guid>
+        <description>&lt;img src="https://avinashsubhash.github.io/tekpeek/linux-logo.png" alt="Featured image of post Linux" /&gt;</description>
+        </item>
+        <item>
+        <title>Storage</title>
+        <link>https://avinashsubhash.github.io/tekpeek/categories/storage/</link>
+        <pubDate>Wed, 15 Mar 2023 14:26:01 +0530</pubDate>
+        
+        <guid>https://avinashsubhash.github.io/tekpeek/categories/storage/</guid>
+        <description>&lt;img src="https://avinashsubhash.github.io/tekpeek/storage.png" alt="Featured image of post Storage" /&gt;</description>
+        </item>
+        <item>
+        <title>YouTube</title>
+        <link>https://avinashsubhash.github.io/tekpeek/categories/youtube/</link>
+        <pubDate>Wed, 15 Mar 2023 14:26:01 +0530</pubDate>
+        
+        <guid>https://avinashsubhash.github.io/tekpeek/categories/youtube/</guid>
+        <description>&lt;img src="https://avinashsubhash.github.io/tekpeek/youtube.png" alt="Featured image of post YouTube" /&gt;</description>
+        </item>
+        <item>
         <title>Arch</title>
         <link>https://avinashsubhash.github.io/tekpeek/categories/arch/</link>
         <pubDate>Fri, 06 Jan 2023 13:25:23 +0530</pubDate>
         
         <guid>https://avinashsubhash.github.io/tekpeek/categories/arch/</guid>
         <description>&lt;img src="https://avinashsubhash.github.io/tekpeek/arch.png" alt="Featured image of post Arch" /&gt;</description>
-        </item>
-        <item>
-        <title>Linux</title>
-        <link>https://avinashsubhash.github.io/tekpeek/categories/linux/</link>
-        <pubDate>Fri, 06 Jan 2023 13:25:23 +0530</pubDate>
-        
-        <guid>https://avinashsubhash.github.io/tekpeek/categories/linux/</guid>
-        <description>&lt;img src="https://avinashsubhash.github.io/tekpeek/linux-logo.png" alt="Featured image of post Linux" /&gt;</description>
         </item>
         <item>
         <title>Windows</title>
