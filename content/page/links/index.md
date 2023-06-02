@@ -13,6 +13,11 @@ links:
     website: https://education.github.com/pack
     image: /tekpeek/github-sdb.png
 
+  - title: Medium.com - Avinash S
+    description: Avinash's Medium.com blog page
+    website: https://medium.com/@kingaiva
+    image: /tekpeek/tekpeek.png
+
 
 menu:
     main: 
@@ -20,7 +25,10 @@ menu:
         params:
             icon: link
 
-comments: false
+comments: true
+
+
+
 ---
 
 

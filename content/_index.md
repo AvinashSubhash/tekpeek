@@ -1,4 +1,5 @@
 ---
+title: Hello
 menu:
     main:
         name: Home
